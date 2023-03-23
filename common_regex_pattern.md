@@ -1,4 +1,4 @@
-Extract the total (number of 2 digits) from product name:
+Extract the total from product name (number of 2 digits):
 > regex = '.*\/(\d{1,2}).*\n*.*'
 
 
